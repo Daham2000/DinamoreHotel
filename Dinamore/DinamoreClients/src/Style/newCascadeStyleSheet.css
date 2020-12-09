@@ -1,0 +1,6 @@
+.paneBackground{
+    -fx-background-color:#333333;
+}
+.paneTopic{
+    -fx-text-fill:#ffffff;
+}
